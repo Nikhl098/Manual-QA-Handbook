@@ -1,0 +1,3 @@
+Test Case ID,Module,Title,Preconditions,Steps,Test Data,Expected Result,Actual Result,Priority,Status,Bug ID,Remarks
+TC_LOGIN_001,Login,Verify login with valid credentials,User account exists,"1. Open login page; 2. Enter username; 3. Enter password; 4. Click Login",valid username and password,User lands on dashboard,,High,Not Run,,
+TC_LOGIN_002,Login,Verify login with wrong password,User account exists,"1. Open login page; 2. Enter valid username; 3. Enter wrong password; 4. Click Login",valid username and wrong password,Error message is shown and user stays on login page,,High,Not Run,,

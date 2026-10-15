@@ -1,0 +1,3 @@
+Requirement ID,Requirement Description,Test Scenario,Test Case IDs,Status
+REQ-001,User can log in with email and password,Verify login,"TC_LOGIN_001, TC_LOGIN_002, TC_LOGIN_003",Covered
+REQ-002,User can reset password,Verify forgot password,TC_PWD_001,Covered
